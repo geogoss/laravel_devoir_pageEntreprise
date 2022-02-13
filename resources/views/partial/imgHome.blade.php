@@ -3,7 +3,7 @@
         <img src="{{ asset('https://cdn.pixabay.com/photo/2017/07/25/22/54/lego-2539844_960_720.jpg') }} "
             class="w-100 mx-auto" alt="...">
         <div class="texteDansImage">
-            <h1 class="text-white text-center">Bienvenu Chez Manufacture Corporation</h1>
+            <h1 class="text-white text-center">Bienvenue Chez Manufacture Corporation</h1>
             <p class="text-white text-center fs-2">L'endroit de tous vos désirs</p>
         </div>
         <div class="formDansImage w-75 p-4">
